@@ -1,0 +1,1 @@
+ A:\\Core2Web\\GitlabFlutter\\flutter-apps\\quizapp\\.dart_tool\\flutter_build\\8182db69c8dea14c5727c828c399c991\\native_assets.yaml: 
